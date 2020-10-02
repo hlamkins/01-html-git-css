@@ -8,5 +8,5 @@ The goal of this assignment was to combine like functions in css, comment on the
 
 ## Screenshots
 ![Screenshot of deployed app header](./assets/images/Screenshot1.png)
-![Screenshot of deployed app bottom half](./assets/imgages/Screenshot2.png)
+![Screenshot of deployed app bottom half](./assets/images/Screenshot2.png)
 
